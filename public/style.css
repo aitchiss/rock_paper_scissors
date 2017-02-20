@@ -1,0 +1,51 @@
+nav {
+  background-color: #834C83;
+  color: white;
+  padding: 10px;
+}
+
+nav a{
+  color: white;
+}
+
+
+body {
+  
+  font-family: Helvetica, sans-serif;
+  color: #834C83;
+
+
+}
+
+img {
+  height: 200px;
+  width: 350px;
+  margin: auto;
+  display: block;
+}
+
+h1{
+  text-align: center;
+  color: black;
+}
+
+h2{
+  text-align: center;
+  color: black;
+}
+
+
+
+h5{
+  text-align: center;
+  color: black;
+}
+
+.play{
+  border: 2px solid #834C83 ;
+  padding: 15px;
+}
+
+.footer{
+  text-align: center;
+}
